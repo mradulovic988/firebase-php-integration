@@ -271,8 +271,8 @@ Distributed under GNU General Public License v3.0. See `LICENSE` for more inform
 ## Contact
 
 <p>Marko Radulovic </p>
-<p>[LinkedIn](https://www.linkedin.com/in/marko-radulovic/)</p>
-<p>Email: upss070288@gmail.com</p>
+<a href="https://www.linkedin.com/in/marko-radulovic/" target="_blank">LinkedIn</a></p>
+<p>Email: <a href="mailto:upss070288@gmail.com">upss070288@gmail.com</a></p>
 
 
 <small>Thanks Shahroze Nawaz on help.</small>
