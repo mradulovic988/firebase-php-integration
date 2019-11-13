@@ -16,6 +16,7 @@
 
 Firebase is a real-time communication service providing real-time data flow for chat, mobile and web applications. It provides several real time services including Cloud messaging, auth systems, Firebase PHP database, Notification systems, Storage and Firebase Hosting, making its platform a complete plethora of tools and services for developing high quality apps.
 
+
 <!-- Firebase VS MySQL -->
 ## Firebase VS MySQL
 
@@ -26,6 +27,7 @@ These relations are then used for data transactions. MySQL lacks the real-time d
 On the other hand Firebase database provides different platforms like Android, iOS and Web for creating quick APIs. Basically Firebase is a hierarchical data structure i.e it’s just like a JSON tree in the cloud.
 
 Firebase has the concept of keys, which are the names of the nodes that you store data under. You could somehow compare them to the primary keys of a relational database but there is no concept of a managed foreign key in it.
+
 
 <!-- Integrate PHP With Firebase -->
 ## Integrate PHP With Firebase
@@ -52,6 +54,7 @@ After installing, you need to require Composer’s autoloader:
 <?php
 require_once './vendor/autoload.php';
 ```
+
 <!-- Create Connection With Firebase -->
 ## Create Connection With Firebase
 
@@ -267,10 +270,11 @@ Distributed under GNU General Public License v3.0. See `LICENSE` for more inform
 <!-- CONTACT -->
 ## Contact
 
-Marko Radulovic 
-[LinkedIn](https://www.linkedin.com/in/marko-radulovic/)
-Email: upss070288@gmail.com
+<p>Marko Radulovic </p>
+<p>[LinkedIn](https://www.linkedin.com/in/marko-radulovic/)</p>
+<p>Email: upss070288@gmail.com</p>
 
-Thanks Shahroze Nawaz on help.
+
+<small>Thanks Shahroze Nawaz on help.</small>
 
 
