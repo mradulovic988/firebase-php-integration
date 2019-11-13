@@ -270,8 +270,8 @@ Distributed under GNU General Public License v3.0. See `LICENSE` for more inform
 <!-- CONTACT -->
 ## Contact
 
-<p>Marko Radulovic </p>
-<a href="https://www.linkedin.com/in/marko-radulovic/" target="_blank">LinkedIn</a></p>
+<p>Author: Marko Radulovic </p>
+<p>Find me on: <a href="https://www.linkedin.com/in/marko-radulovic/" target="_blank">LinkedIn</a></p>
 <p>Email: <a href="mailto:upss070288@gmail.com">upss070288@gmail.com</a></p>
 
 
